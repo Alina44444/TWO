@@ -8,6 +8,7 @@ public class test {
         git
         git branch
         git checkout main
+        + checkout push ++
          */
     }
 }
